@@ -29,9 +29,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">THE MATTHEW</a>
+                <a class="navbar-brand" href="#">THE MATTHEW2</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
+
+            
                 <ul class="nav navbar-nav">
                     <li class="<?php if($active_menu == 'index') echo "active"; ?>"><a href="index.php">Home</a>
                     </li>
